@@ -1,4 +1,4 @@
 config =
-        logPath: '/var/log/hb/'
+        logPath: '/var/log/farfalia/'
 
 module.exports = config
